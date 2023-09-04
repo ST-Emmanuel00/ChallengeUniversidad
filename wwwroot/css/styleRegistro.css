@@ -1,0 +1,214 @@
+*{
+    
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .light{
+    background-color: #C9D6DF;
+} */
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.my-confirm-button-class {
+    width: auto; 
+  }
+  
+.tit{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+#two{
+    background-color: #52616B;
+}
+.hola{
+    border: #000 solid 2px;
+}
+label{
+    color: #000;
+}
+#one{
+    border-width: 4px;
+    border-style: solid; 
+    border-image: linear-gradient(to right, #ffffff, #52616B) 1; 
+
+}
+#btnvigilante, #regresar{
+    color: #3c4044;
+}
+.lais{
+    background-color: #000;
+}
+.my-nav {
+    /* Estilos personalizados para el nav */
+    background-color: #f0f0f0; /* Cambia el color de fondo */
+    padding: 10px; /* Ajusta el espaciado interno */
+    /* Agrega otros estilos según tus preferencias */
+  }
+
+  .custom-nav {
+    background-color: blue;
+    width: 100%;
+  }
+  
+  .swal-button { 
+    width: 60px; 
+    height: 40px; 
+   
+  }
+    
+
+.card-title{
+    color: #fff;
+}
+
+.inicio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://img.freepik.com/foto-gratis/vista-calle-centro-angeles-noche_649448-2530.jpg?w=740&t=st=1683954453~exp=1683955053~hmac=ac7183bd995a1782c50e5737f2a344663fe834d019be8f4f3726f021ef5e902e);
+    background-size: cover;
+    background-position: center;
+}
+
+        
+        
+        .fregistro {
+            position: relative;
+            width: 550px;
+            height: 550px;
+            background: #ffffff1a;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            backdrop-filter: blur(17px);
+        }
+        
+        .campo-grupo {
+            display: flex;
+        }
+        
+        .campo {
+            
+            flex-basis: 50%;
+            padding: 2px;
+            margin: -15px 25px -7px 25px;
+            
+        }
+        
+        .campo input {
+            
+            width: 100%;
+            height: 46px;
+            background: transparent;
+            border: none;
+            outline: none;
+            font-size: 1em;
+            color: #fff;
+            border-bottom: 2px solid #fff;
+            
+        }
+        
+        .campo label {
+            position: relative;
+            top: -38%;
+             left: 5px;
+            transform: translate(-7%);
+            font-size: 1em;
+            color: #fff;
+            pointer-events: none;
+            transition: .5s;
+        }
+        .campo input:focus~label,
+.campo input:valid~label{
+    top: -55px;
+}
+
+        
+        .campo select {
+            margin-top: 7px;
+            padding: 1px;
+            width: 100%;
+            height: 64px;
+            background: transparent;
+            border: none;
+            outline: none;
+            font-size: 1em;
+            color: #fff;
+            border-bottom: 2px solid #fff;
+            
+        }
+        .campo option{
+            color: black;
+        }
+        
+    
+        
+        .registro{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 15px 0 10px;
+}
+.registro p{
+    color: #fff;
+    font-weight: 600;
+}
+.registro a{
+    text-decoration: none;
+    color: #fff;
+}
+.registro a:hover{
+    text-decoration: underline;
+
+}
+        
+        .olvido {
+            text-align: center;
+        }
+        
+        .olvido a {
+            color: #9e9e9e;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        
+        .olvido a:hover {
+            color: #fff;
+        }
+        
+        .tit {
+            color: #fff;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    button {
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+    height: 39px;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 35px;
+    cursor: pointer;
+    font-size: 1em;
+    color: black;
+    box-shadow: #000;
+    font-weight: 500;
+    }
+    .campo .icono {
+    position: relative;
+    margin-left: 200px;
+    top: 40%;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1.2rem;
+}
