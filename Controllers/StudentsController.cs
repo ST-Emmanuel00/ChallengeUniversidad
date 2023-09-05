@@ -20,11 +20,26 @@ namespace Universidad.Controllers
         }
 
         // GET: Students
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(String buscar)
         {
-              return _context.Student != null ? 
-                          View(await _context.Student.ToListAsync()) :
-                          Problem("Entity set 'AplicationDbContext.Student'  is null.");
+            if (_context.Course.Count() == 0) TempData["mensageTable"] = "No hay estudiantes para mostrar, por favor crea uno aquí";
+
+            if (!String.IsNullOrEmpty(buscar))
+            {
+                var cursosFiltrados = await _context.Student
+                    .Where(c => c.FirstName.Contains(buscar))
+                    .OrderByDescending(c => c.EnrollmentDate)
+                    .ToListAsync();
+                return View(cursosFiltrados);
+            }
+            else TempData["mensageTable"] = "No hay estudiantes para mostrar por este nombre, Agrega uno aquí";
+
+
+            var cursosOrdenadosPorCreditos = await _context.Student
+                .OrderByDescending(c => c.EnrollmentDate)
+                .ToListAsync();
+
+            return View(cursosOrdenadosPorCreditos);
         }
 
         // GET: Students/Details/5

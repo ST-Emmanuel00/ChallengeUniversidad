@@ -27,11 +27,11 @@
                     @*                    <p class="mb-4">Vista de los Libros existentes</p>
                     *@
                     @{
-                        if (TempData["mensaje"] != null)
+                        if (TempData["confirmationMensage"] != null)
                         {
                             <div class="col-12 mb-4">
                                 <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                                    <strong>¡Hecho</strong> @TempData["mensaje"] <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                    @TempData["confirmationMensage"] <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
@@ -81,7 +81,7 @@
                                     {
                                         <div class="col-12 mb-4">
                                             <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                                                <strong>No hay libros registrados</strong> Para agrega runo has click aqui <a asp-controller="@ViewData["Controller"]" asp-action="@ViewData["Create"]">@ViewData["BotonCrear"]</a> <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                                @TempData["mensageTable"] <a asp-controller="@ViewData["Controller"]" asp-action="@ViewData["Create"]">@ViewData["BotonCrear"]</a> <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                 </button>
                                             </div>

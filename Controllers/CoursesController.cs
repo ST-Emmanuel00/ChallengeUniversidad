@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.CodeAnalysis.Options;
 using Microsoft.EntityFrameworkCore;
 using Universidad.Data;
 using Universidad.Models;
@@ -20,12 +21,28 @@ namespace Universidad.Controllers
         }
 
         // GET: Courses
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(String buscar)
         {
-              return _context.Course != null ? 
-                          View(await _context.Course.ToListAsync()) :
-                          Problem("Entity set 'AplicationDbContext.Course'  is null.");
+            if (_context.Course.Count() == 0) TempData["mensageTable"] = "No hay cursos para mostrar, por favor crea uno aquí";
+
+            if (!String.IsNullOrEmpty(buscar))
+            {
+                var cursosFiltrados = await _context.Course
+                    .Where(c => c.Title.Contains(buscar))
+                    .OrderByDescending(c => c.Credito)
+                    .ToListAsync();
+                return View(cursosFiltrados);
+            }
+            else TempData["mensageTable"] = "No hay cursos para mostrar por ese título, Agrega uno aquí";
+
+
+            var cursosOrdenadosPorCreditos = await _context.Course
+                .OrderByDescending(c => c.Credito)
+                .ToListAsync();
+
+            return View(cursosOrdenadosPorCreditos);
         }
+
 
         // GET: Courses/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -58,13 +75,16 @@ namespace Universidad.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("CourseId,Title,Credito")] Course course)
         {
-            if (ModelState.IsValid)
+            if (_context.Course.Any(c => c.Title == course.Title))
             {
-                _context.Add(course);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                TempData["mensajeError"] = "El título del curso ya existe.";
+                return RedirectToAction("Index");
             }
-            return View(course);
+
+            _context.Course.Add(course);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
         }
 
         // GET: Courses/Edit/5
@@ -150,14 +170,14 @@ namespace Universidad.Controllers
             {
                 _context.Course.Remove(course);
             }
-            
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool CourseExists(int id)
         {
-          return (_context.Course?.Any(e => e.CourseId == id)).GetValueOrDefault();
+            return (_context.Course?.Any(e => e.CourseId == id)).GetValueOrDefault();
         }
     }
 }

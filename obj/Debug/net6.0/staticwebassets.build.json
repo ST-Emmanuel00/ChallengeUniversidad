@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tss8N0SGuMexnzWirDlFZIifBzFl0pdYaxoQc1BFu5E=",
+  "Hash": "T2CkW/zunADJhd2hAYrdXl0Vpo1kMWZIZJ9vPVj3FoM=",
   "Source": "Universidad",
   "BasePath": "_content/Universidad",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Universidad\\wwwroot",
       "Source": "Universidad",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Universidad.styles.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Universidad.styles.css",
       "SourceId": "Universidad",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "Universidad.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Universidad.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Universidad.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Universidad.bundle.scp.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Universidad.bundle.scp.css",
       "SourceId": "Universidad",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "Universidad.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Universidad.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Universidad.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-1.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-1.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-1.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-2.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-2.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-2.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-3.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-3.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-3.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-4.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-4.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-4.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-5.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-5.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-5.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-6.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-6.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-6.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-7.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-7.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-7.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\avatars\\face-8.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\avatars\\face-8.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/avatars/face-8.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\avatars\\face-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\images\\logo.svg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\images\\logo.svg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/images/logo.svg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\images\\qrcode.svg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\images\\qrcode.svg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/images/qrcode.svg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\qrcode.svg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\products\\p1.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\products\\p1.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/products/p1.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\products\\p1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\products\\p2.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\products\\p2.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/products/p2.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\products\\p2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\products\\p3.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\products\\p3.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/products/p3.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\products\\p3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\assets\\products\\p4.jpg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\assets\\products\\p4.jpg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "assets/products/p4.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\products\\p4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\apexcharts.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\apexcharts.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/apexcharts.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\apexcharts.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\app-dark.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\app-dark.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/app-dark.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app-dark.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\app-light.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\app-light.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/app-light.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app-light.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\app-rtl.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\app-rtl.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/app-rtl.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app-rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\bootstrap-datepicker.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\bootstrap-datepicker.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/bootstrap-datepicker.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-datepicker.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\dataTables.bootstrap4.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\daterangepicker.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\daterangepicker.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/daterangepicker.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\daterangepicker.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\dropzone.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\dropzone.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/dropzone.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dropzone.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\dropzone.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\dropzone.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/dropzone.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dropzone.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\feather.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\feather.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/feather.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\feather.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\fullcalendar.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\fullcalendar.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/fullcalendar.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fullcalendar.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\jquery.steps.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\jquery.steps.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/jquery.steps.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.steps.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\jquery.timepicker.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\jquery.timepicker.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/jquery.timepicker.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.timepicker.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\perfect-scrollbar.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\perfect-scrollbar.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/perfect-scrollbar.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\css\\perfect-scrollbar.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\quill.snow.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\quill.snow.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/quill.snow.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\css\\quill.snow.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\select2.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\select2.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/select2.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\css\\select2.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\select2-bootstrap4.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\select2-bootstrap4.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/select2-bootstrap4.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\css\\select2-bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\simplebar.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\simplebar.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/simplebar.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\css\\simplebar.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\site.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\style.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\styleRecuperar.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\styleRecuperar.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/styleRecuperar.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styleRecuperar.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\styleRegistro.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\styleRegistro.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/styleRegistro.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styleRegistro.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\css\\uppy.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\css\\uppy.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "css/uppy.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\css\\uppy.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\data\\contacts.json",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\data\\contacts.json",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "data/contacts.json",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\data\\contacts.json"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\data\\eu.topo.json",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\data\\eu.topo.json",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "data/eu.topo.json",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\data\\eu.topo.json"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\favicon.ico",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\fonts\\feather.eot",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\fonts\\feather.eot",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "fonts/feather.eot",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\feather.eot"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\fonts\\feather.svg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\fonts\\feather.svg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "fonts/feather.svg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\feather.svg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\fonts\\feather.ttf",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\fonts\\feather.ttf",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "fonts/feather.ttf",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\feather.ttf"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\fonts\\feather.woff",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\fonts\\feather.woff",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "fonts/feather.woff",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\feather.woff"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\img\\paisaje-urbano-noche_1308-18430.avif",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\img\\paisaje-urbano-noche_1308-18430.avif",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "img/paisaje-urbano-noche_1308-18430.avif",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\paisaje-urbano-noche_1308-18430.avif"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\img\\paisaje-urbano-noche-vector-diseno-urbano-oficina-comercial-luna-cielo_1284-43660.avif",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\img\\paisaje-urbano-noche-vector-diseno-urbano-oficina-comercial-luna-cielo_1284-43660.avif",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "img/paisaje-urbano-noche-vector-diseno-urbano-oficina-comercial-luna-cielo_1284-43660.avif",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\paisaje-urbano-noche-vector-diseno-urbano-oficina-comercial-luna-cielo_1284-43660.avif"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\img\\Untitleda.svg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\img\\Untitleda.svg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "img/Untitleda.svg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Untitleda.svg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\img\\Untitledas.svg",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\img\\Untitledas.svg",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "img/Untitledas.svg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Untitledas.svg"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\apexcharts.custom.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\apexcharts.custom.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/apexcharts.custom.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\js\\apexcharts.custom.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\apexcharts.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\apexcharts.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/apexcharts.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\js\\apexcharts.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\apps.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\apps.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/apps.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\js\\apps.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\bootstrap-datepicker.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\bootstrap-datepicker.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/bootstrap-datepicker.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap-datepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\Chart.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/Chart.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\config.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\config.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/config.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\config.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\d3.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\d3.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/d3.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\js\\d3.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\datamaps.all.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\datamaps.all.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/datamaps.all.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datamaps.all.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\datamaps.custom.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\datamaps.custom.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/datamaps.custom.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datamaps.custom.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\datamaps-zoomto.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\datamaps-zoomto.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/datamaps-zoomto.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datamaps-zoomto.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\dataTables.bootstrap4.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\dataTables.bootstrap4.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/dataTables.bootstrap4.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\daterangepicker.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\daterangepicker.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/daterangepicker.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\js\\daterangepicker.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\dropzone.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\dropzone.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/dropzone.min.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dropzone.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\ER_validacion_notificaciones.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\ER_validacion_notificaciones.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/ER_validacion_notificaciones.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ER_validacion_notificaciones.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\ER_validacion_vehiculo.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\ER_validacion_vehiculo.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/ER_validacion_vehiculo.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ER_validacion_vehiculo.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\fullcalendar.custom.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\fullcalendar.custom.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/fullcalendar.custom.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fullcalendar.custom.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\fullcalendar.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\fullcalendar.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/fullcalendar.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fullcalendar.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funciones_espacios.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funciones_espacios.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funciones_espacios.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funciones_espacios.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funciones_propietarios.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funciones_propietarios.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funciones_propietarios.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funciones_propietarios.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funciones_reservas.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funciones_reservas.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funciones_reservas.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funciones_reservas.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funciones_residentes.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funciones_residentes.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funciones_residentes.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funciones_residentes.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funciones_vehiculo.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funciones_vehiculo.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funciones_vehiculo.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funciones_vehiculo.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funciones_visitantes.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funciones_visitantes.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funciones_visitantes.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funciones_visitantes.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funcionesRoles.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funcionesRoles.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funcionesRoles.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funcionesRoles.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funcionesUsuarios.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funcionesUsuarios.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funcionesUsuarios.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funcionesUsuarios.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\funcionesVigilantes.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\funcionesVigilantes.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/funcionesVigilantes.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\funcionesVigilantes.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\gauge.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\gauge.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/gauge.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\gauge.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.dataTables.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.mask.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.mask.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.mask.min.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.mask.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.sparkline.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.sparkline.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.sparkline.min.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.sparkline.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.steps.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.steps.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.steps.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.steps.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.stickOnScroll.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.stickOnScroll.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.stickOnScroll.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.stickOnScroll.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.timepicker.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.timepicker.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.timepicker.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.timepicker.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\jquery.validate.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\moment.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\moment.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/moment.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\perfect-scrollbar.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\perfect-scrollbar.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/perfect-scrollbar.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\perfect-scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\popper.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\procesosCobros.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\procesosCobros.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/procesosCobros.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\procesosCobros.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\procesosCuentaCobro.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\procesosCuentaCobro.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/procesosCuentaCobro.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\procesosCuentaCobro.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\quill.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\quill.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/quill.min.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\js\\quill.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\reserva_validacion.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\reserva_validacion.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/reserva_validacion.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\reserva_validacion.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scripteditarVigilante.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scripteditarVigilante.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scripteditarVigilante.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripteditarVigilante.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scriptModificarP.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scriptModificarP.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scriptModificarP.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptModificarP.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scriptRecuperar.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scriptRecuperar.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scriptRecuperar.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptRecuperar.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scriptRestablecer.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scriptRestablecer.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scriptRestablecer.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptRestablecer.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scriptRol.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scriptRol.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scriptRol.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptRol.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scriptUsuarioEdit.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scriptUsuarioEdit.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scriptUsuarioEdit.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptUsuarioEdit.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scriptUsuarios.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scriptUsuarios.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scriptUsuarios.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptUsuarios.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\scriptVigilantes.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\scriptVigilantes.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/scriptVigilantes.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptVigilantes.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\select2.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\select2.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/select2.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\js\\select2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\simplebar.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\simplebar.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/simplebar.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\js\\simplebar.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\site.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\tinycolor-min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\tinycolor-min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/tinycolor-min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\js\\tinycolor-min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\topojson.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\topojson.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/topojson.min.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\js\\topojson.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\uppy.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\uppy.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/uppy.min.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\js\\uppy.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\validacionCerrarSesion.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\validacionCerrarSesion.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/validacionCerrarSesion.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validacionCerrarSesion.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\validaciones_espacios.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\validaciones_espacios.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/validaciones_espacios.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validaciones_espacios.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\validaciones_propietarios.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\validaciones_propietarios.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/validaciones_propietarios.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validaciones_propietarios.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\validaciones_residentes.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\validaciones_residentes.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/validaciones_residentes.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validaciones_residentes.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\validaciones_visitantes.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\validaciones_visitantes.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/validaciones_visitantes.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validaciones_visitantes.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\validacionLogin.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\validacionLogin.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/validacionLogin.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validacionLogin.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\validacionRegistrar.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\validacionRegistrar.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/validacionRegistrar.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validacionRegistrar.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\js\\vehiculo_validaciones.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\js\\vehiculo_validaciones.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "js/vehiculo_validaciones.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vehiculo_validaciones.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Universidad",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\wwwroot\\",
       "BasePath": "_content/Universidad",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

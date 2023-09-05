@@ -11182,11 +11182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\Universidad.csproj",
+      "projectUniqueName": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\Universidad.csproj",
       "projectName": "Universidad",
-      "projectPath": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\Universidad.csproj",
+      "projectPath": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\Universidad.csproj",
       "packagesPath": "C:\\Users\\Ingenieria ⚠\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ingenieria ⚠\\Desktop\\.NET\\Universidad\\obj\\",
+      "outputPath": "C:\\Users\\Ingenieria ⚠\\Desktop\\Universidad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ingenieria ⚠\\AppData\\Roaming\\NuGet\\NuGet.Config",
